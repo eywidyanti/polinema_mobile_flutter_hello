@@ -1,6 +1,8 @@
 # tugas_prak1
 
 A new Flutter project.
+![WhatsApp Image 2023-02-16 at 15 43 09](https://user-images.githubusercontent.com/92065847/219534987-1fe0b04c-2649-4162-ac13-d8f6b0494f68.jpeg)
+
 
 ## Getting Started
 
